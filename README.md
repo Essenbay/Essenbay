@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Essenbay
+- 👀 I’m interested in Application programming
+- 🌱 I’m currently learning Java Core
+- 💞️ I’m looking to collaborate on anythink to get practice!
+- 📫 My email and telegram (https://t.me/ashel_00) are always open!
