@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Essenbay
 - 👀 I’m interested in Mobile Application programming
-- 🌱 I’m currently learning Kotlin and Android SDK
+- 🌱 I’m currently learning Flutter, Kotlin and Android SDK
 - 💞️ I’m looking to collaborate on anythink to get practice!
 - 📫 My email and telegram (https://t.me/ashel_00) are always open!
