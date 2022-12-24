@@ -2,4 +2,4 @@
 - 👀 I’m interested in Mobile Application programming
 - 🌱 I’m currently learning Kotlin and Android SDK
 - 💞️ I’m looking to collaborate on anythink to get practice!
-- 📫 My email and telegram (https://t.me/ashel_00) are always open!
+- 📫 My email(esenbay.asel@mail.ru) and telegram (https://t.me/ashel_00) are always open!
