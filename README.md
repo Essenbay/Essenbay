@@ -1,4 +1,4 @@
 - @Essenbay
 - Flutter developer.
 - Currently learning Android and iOS mobile developing.
-- 📫 My email(esenbay.asel@mail.ru) and telegram (https://t.me/ashel_00) are always open!
+- 📫 My email(esenbay.asel@mail.ru) and telegram (https://t.me/yessenbay_a) are always open!
